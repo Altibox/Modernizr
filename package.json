@@ -1,0 +1,21 @@
+{
+  "name": "modernizr",
+  "version": "2.7.2",
+  "description": "Modernizr [![Build Status](https://secure.travis-ci.org/Modernizr/Modernizr.png?branch=master)](http://travis-ci.org/Modernizr/Modernizr) =========",
+  "main": "modernizr.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altibox/Modernizr.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Altibox/Modernizr/issues"
+  },
+  "homepage": "https://github.com/Altibox/Modernizr#readme"
+}
